@@ -17,5 +17,6 @@ public class AppTest
         System.out.println("hello git");
         System.out.println("hello hot-fix");
         System.out.println("hello master");
+        System.out.println("hello 刘明福");
     }
 }
